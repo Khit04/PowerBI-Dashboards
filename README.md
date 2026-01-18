@@ -51,7 +51,7 @@ Designed with ease of use in mind, the dashboard utilizes **clean UI design** pr
 ### Page-1 : High Level Market View
 ![Dashboard Page-1](images/Page1.PNG)
 
-### Page-1 : Job Drill Through View
+### Page-2 : Job Drill Through View
 ![Dashboard Page-2](images/Page2.PNG)
 ---
 ## 🚀 **Getting Started**
