@@ -49,10 +49,10 @@ Designed with ease of use in mind, the dashboard utilizes **clean UI design** pr
 ---
 ## Dashboard Overview
 ### Page-1 : High Level Market View
-![Dashboard Page-1](images/Page1.PNG)
+![Dashboard Page-1](/images/Page1.PNG)
 
 ### Page-2 : Job Drill Through View
-![Dashboard Page-2](images/Page2.PNG)
+![Dashboard Page-2](/images/Page2.PNG)
 ---
 ## 🚀 **Getting Started**
 
@@ -75,14 +75,8 @@ This dashboard uses **Power BI**, a powerful data visualization tool, to transfo
 * **Interactive Reporting**: Create dynamic dashboards with slicers, buttons, and drill-through capabilities for a more tailored experience.
 
 ---
-
 ## 🏁 **Conclusion**
 
 Whether you are just starting out or looking to transition into a new data science role, the "Data Jobs Dashboards with Power BI" is designed to equip you with the knowledge and tools necessary to make data-driven career decisions. By analyzing the 2024 dataset, you can gain valuable insights into **market trends**, **salary expectations**, and **key skill sets**, all through a user-friendly, interactive dashboard.
 
 With Power BI, transforming complex datasets into clear, actionable insights has never been easier. So dive in, explore the job market, and take control of your career path!
-
----
-
-Feel free to customize the icons based on your platform's capabilities, but this layout should work well for visualizing the key sections with icons. Would you like me to suggest some specific icon sets or other customizations?
-
