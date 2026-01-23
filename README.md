@@ -51,6 +51,7 @@ This second iteration consolides the dashboard into a **single, focused page** d
 ![Data Job DB GIF](/images/Page3.PNG)
 
 The V2 dashboard acts as your concise mission control for the data job market. It highlights key performance indicators (KPIs) such as total job count and salary metrics, while allowing users to quickly identify in-demand skills and compare salaries across different job titles and locations.
+
 ---
 
 ## 🧠 **Skills Utilized**
