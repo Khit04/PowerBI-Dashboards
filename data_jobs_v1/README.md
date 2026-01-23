@@ -3,7 +3,7 @@
 
 # **Data Jobs Dashboards with Power BI** 📊
 
-![alt text](images/Page1.PNG)
+![alt text](/images/Page1.PNG)
 
 
 ## **Introduction**
